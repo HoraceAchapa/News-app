@@ -1,0 +1,45 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Merriweather&display=swap');
+<style>
+@import url('https://fonts.googleapis.com/css?family=Damion&display=swap');
+</style>
+</style>
+.c-description{
+  font-size:16px;
+  font-family: 'Damion', cursive;
+}
+.header{
+  font-size:16px;
+  color:  rgb(92, 185, 170);
+  text-transform: uppercase;
+  font-family: 'Damion', cursive;
+}
+.others{
+  font-size: 18px;
+  color: rgb(92, 185, 170);
+  font-family: 'Damion', cursive;
+}
+.others:hover{
+  color: rgb(92, 185, 170);
+  text-decoration-line: none;
+}
+#read:hover{
+  color: rgb(92, 185, 170);
+}
+#content{
+  margin-top:5%;
+}
+#router{
+  font-size:18px;
+  color: rgb(92, 185, 170);
+  font-family: 'Damion', cursive;
+}
+#route{
+  font-size:22px;
+  color: rgb(92, 185, 170);
+  font-family: 'Damion', cursive;
+}
+.nav{
+  border:2px solid  rgb(92, 185, 170);
+
+}
